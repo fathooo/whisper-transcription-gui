@@ -22,6 +22,6 @@ if exist "venv" (
 )
 
 echo.
-echo Iniciando aplicacion GUI refactorizada...
+echo Iniciando aplicacion GUI...
 python main.py
 pause
