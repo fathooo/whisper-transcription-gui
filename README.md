@@ -44,7 +44,7 @@ Aplicación de escritorio con interfaz gráfica para transcribir archivos de aud
 
 4. Ejecutar aplicación:
    ```bash
-   python whisper_gui.py
+   python main.py
    ```
 
 ## Requisitos del Sistema
