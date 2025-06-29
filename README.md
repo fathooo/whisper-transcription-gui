@@ -108,8 +108,8 @@ Si el modelo es muy grande para tu sistema:
 Este proyecto utiliza OpenAI Whisper.
 
 ## requirements.txt
-openai-whisper>=20231117
-torch>=1.10.0
-torchaudio>=0.10.0
-numpy>=1.21.0
-ffmpeg-python>=0.2.0
+- openai-whisper>=20231117
+- torch>=1.10.0
+- torchaudio>=0.10.0
+- numpy>=1.21.0
+- ffmpeg-python>=0.2.0
