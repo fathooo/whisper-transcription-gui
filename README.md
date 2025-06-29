@@ -106,3 +106,10 @@ Si el modelo es muy grande para tu sistema:
 
 ## Licencia
 Este proyecto utiliza OpenAI Whisper.
+
+## requirements.txt
+openai-whisper>=20231117
+torch>=1.10.0
+torchaudio>=0.10.0
+numpy>=1.21.0
+ffmpeg-python>=0.2.0
